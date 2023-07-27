@@ -15,6 +15,12 @@ Run these in the terminal:
 
 ### `npm install react-router-dom`
 
+To use the Spoonacular api, create an account an get an api key. Insert it in the api key string in Random.js
+<img width="560" alt="Screenshot 2023-07-27 at 2 21 05 AM" src="https://github.com/matthewlow04/recipe-app/assets/105395794/0bb03790-7aab-445a-8cf4-d6d8dba078e6">
+# Design Decisions
+
+Integrating the translate api proved to be the toughest part as the fetched data from the recipe api was difficult to work with. I initially wanted to add a footer with the translate options but opted not to as my code got more complicated (passing data back in forth). I ended up doing most of the work in one file (Random.js) though I kept it pretty structured. I used axios to simplify the api calls as well as router to be able to navigate between pages. I made sure to keep the UI nice and clean to improve readibility and ensure that all the functions were easy to use (my emphasis on easy use is why I added a home page with instructions). Overall this project was hard at times but proved to be an overall fun challenge! 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
