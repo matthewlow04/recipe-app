@@ -1,3 +1,4 @@
+# Warning - Translate API fails in live demo (error 429, too many requests)
 
 # Home Screen
 
