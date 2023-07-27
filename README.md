@@ -1,3 +1,20 @@
+
+# Home Screen
+
+<img width="1510" alt="Home Screen" src="https://github.com/matthewlow04/recipe-app/assets/105395794/e02fba3a-9f33-4ff0-a476-e69582edbc43">
+
+# Generate Random Recipe
+
+https://github.com/matthewlow04/FastBreak/assets/105395794/61d12695-4bf0-49de-8904-00cdb720d80d
+
+# Prerequisite Installations
+
+Run these in the terminal: 
+
+### `npm install axios`
+
+### `npm install react-router-dom`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +85,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
