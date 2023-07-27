@@ -1,0 +1,46 @@
+
+.descriptor{
+    display: inline-block;
+    padding: 10px 20px;
+     background-color: #f2f2f2;
+    border: 2px solid #888;
+    border-radius: 50px; /* Use a large value to create a capsule shape */
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    text-align: center;
+}
+.main-div{
+    justify-content: center;
+    padding: 30px;
+}
+.headline-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    background-color: brown;
+    color: white;
+    padding: 10px 20px; 
+    font-size: 18px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+}
+
+.title{
+    font-size: large;
+    color: burlywood;
+    font-weight: 700;
+}
+.language-select{
+    margin: 50px;
+}
+.element{
+    margin-bottom: 20px;
+}

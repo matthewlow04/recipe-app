@@ -1,0 +1,23 @@
+.nav-div{
+    display:flex;
+    height: 100px;
+    align-items: center;
+    background: linear-gradient(150deg, antiquewhite, white);
+    color:burlywood;
+    padding: 20px;
+}
+
+.nav-img{
+  max-width: 100px;
+  margin-right: 10px
+}
+.nav-title{
+    margin-right: auto;
+}
+
+.nav-div a {
+    margin-right: 50px;
+    color:burlywood;
+    font-size: larger;
+}
+

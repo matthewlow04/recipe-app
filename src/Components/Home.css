@@ -1,0 +1,39 @@
+
+body,
+div,
+p,
+img {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; 
+  max-width: 800px; 
+  margin: 0 auto; 
+  margin-top: 100px;
+  margin-bottom: 400px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  color: gray;
+}
+
+.content {
+  flex: 1; 
+}
+
+.image-container {
+  flex: 1; 
+  display: flex;
+  justify-content: flex-end; 
+}
+.image {
+  max-width: 100%; 
+  max-height: 200px; 
+  object-fit: contain; 
+  border: 1px solid #ccc;
+  padding: 10px;
+}
